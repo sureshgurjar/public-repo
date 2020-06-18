@@ -1,1 +1,1 @@
-This is just a website template which I tried version control with Git.
+This is just a website template which I tried to version control with Git.
